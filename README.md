@@ -4,3 +4,5 @@ Just fiddling around with JSON calls, jQuery possibilities, dynamic content crea
 This website was created as a part of [FreeCodeCamp] (freecodecamp.com) challange *Use the Twitchtv JSON API*.
 
 You can find the specification of the challange here: https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api
+
+Check out this website at my [CodePen](http://codepen.io/mandriv/pen/KNPvGp)
